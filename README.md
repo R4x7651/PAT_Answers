@@ -25,6 +25,8 @@
 - [B1010 【一元多项式求导】](PAT_LevelB\1010_一元多项式求导.cpp)
 - [A1002 【A+B for Polynomials】](PAT_LevelA\1002_A+B_for_Polynomials.cpp)
 - [A1009 【Product of Polynomials】](PAT_LevelA\1009_Product_of_Polynomials.cpp)
+- [B1041 【考试座位号】](PAT_LevelB\1041_考试座位号.cpp)
+- [B1004 【成绩排名】](PAT_LevelB\1004_成绩排名.cpp)
 
 
 

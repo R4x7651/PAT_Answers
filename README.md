@@ -12,7 +12,7 @@
 ### 【1】基本训练
 
 - [B1001 【害死人不偿命的(3n+1)猜想】](./PAT_LevelB/1001_3n+1.cpp)
-- [B1011 【A+B 和 C】](./PAT_LevelB/1011_A+B 和 C.cpp)
+- [B1011 【A+B 和 C】](PAT_LevelB\1011_A+B 和 C.cpp)
 - 
 
 

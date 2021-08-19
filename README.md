@@ -13,7 +13,18 @@
 
 - [B1001 【害死人不偿命的(3n+1)猜想】](./PAT_LevelB/1001_3n+1.cpp)
 - [B1011 【A+B 和 C】](PAT_LevelB/1011_A+B和C.cpp)
-- 
+- [B1016 【部分A+B】](PAT_LevelB\1016_部分A+B.cpp)
+- [B1026 【程序运行时间】](PAT_LevelB\1026_程序运行时间.cpp)
+- [B1046 【划拳】](PAT_LevelB\1046_划拳.cpp)
+- [B1008 【数组元素循环右移问题】](PAT_LevelB\1008_数组元素循环右移问题.cpp)
+- [B1012 【数字分类】](PAT_LevelB\1012_数字分类.cpp)
+- [B1018 【锤子剪刀布】](PAT_LevelB\1018_锤子剪刀布.cpp)
+- [A1042 【Shuffling Machine】](PAT_LevelA\1042_Shuffling_Machine.cpp)
+- [A1046 【Shortest Distance】](PAT_LevelA\1046_Shortest_Distance.cpp)
+- [A1065 【A+B and C (64bit)】](PAT_LevelA\1065_A+B_and_C_(64bit).cpp)
+- [B1010 【一元多项式求导】](PAT_LevelB\1010_一元多项式求导.cpp)
+- [A1002 【A+B for Polynomials】](PAT_LevelA\1002_A+B_for_Polynomials.cpp)
+- [A1009 【Product of Polynomials】](PAT_LevelA\1009_Product_of_Polynomials.cpp)
 
 
 

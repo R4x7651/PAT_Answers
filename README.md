@@ -27,6 +27,7 @@
 - [A1009 【Product of Polynomials】](PAT_LevelA\1009_Product_of_Polynomials.cpp)
 - [B1041 【考试座位号】](PAT_LevelB\1041_考试座位号.cpp)
 - [B1004 【成绩排名】](PAT_LevelB\1004_成绩排名.cpp)
+- [B1028 【人口普查】](PAT_LevelB\1028_人口普查.cpp)
 
 
 

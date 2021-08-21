@@ -31,5 +31,5 @@
 - [B1032 【挖掘机技术哪家强】](PAT_LevelB\1032_挖掘机技术哪家强.cpp)
 - [A1011 【World Cup Betting】](PAT_LevelA\1011_World_Cup_Betting.cpp)
 - [A1006 【Sign In and Sign Out】](PAT_LevelA\1006_Sign_In_and_Sign_Out.cpp)
-
+- [A1036 【Boys vs Girls】](PAT_LevelA\1036_Boys_vs_Girls.cpp)
 

@@ -29,5 +29,7 @@
 - [B1004 【成绩排名】](PAT_LevelB\1004_成绩排名.cpp)
 - [B1028 【人口普查】](PAT_LevelB\1028_人口普查.cpp)
 - [B1032 【挖掘机技术哪家强】](PAT_LevelB\1032_挖掘机技术哪家强.cpp)
+- [A1011 【World Cup Betting】](PAT_LevelA\1011_World_Cup_Betting.cpp)
+- [A1006 【Sign In and Sign Out】](PAT_LevelA\1006_Sign_In_and_Sign_Out.cpp)
 
 

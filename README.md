@@ -33,4 +33,4 @@
 - [A1006 【Sign In and Sign Out】](PAT_LevelA\1006_Sign_In_and_Sign_Out.cpp)
 - [A1036 【Boys vs Girls】](PAT_LevelA\1036_Boys_vs_Girls.cpp)
 - [B1036 【跟奥巴马一起编程】](PAT_LevelB\1036_跟奥巴马一起编程.cpp)
-
+- [B1027 【打印沙漏】](PAT_LevelB\1027_打印沙漏.cpp)

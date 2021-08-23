@@ -34,3 +34,4 @@
 - [A1036 【Boys vs Girls】](PAT_LevelA\1036_Boys_vs_Girls.cpp)
 - [B1036 【跟奥巴马一起编程】](PAT_LevelB\1036_跟奥巴马一起编程.cpp)
 - [B1027 【打印沙漏】](PAT_LevelB\1027_打印沙漏.cpp)
+- [A1031 【Hello World for U】](PAT_LevelA\1031_Hello_World_for_U.cpp)

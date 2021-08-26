@@ -38,3 +38,5 @@
 - [B1022 【D进制的A+B】](PAT_LevelB/1022_D进制的A+B.cpp)
 - [B1037 【在霍格沃茨找零钱】](PAT_LevelB/1037_在霍格沃茨找零钱.cpp)
 - [A1019 【General Palindromic Number】](PAT_LevelA/1019_General_Palindromic_Number.cpp)
+- [A1027 【Colors in Mars】](PAT_LevelA/1027_Colors_in_Mars.cpp)
+- [A1058 【A+B in Hogwarts】](PAT_LevelA/1058_A+B_in_Hogwarts.cpp)

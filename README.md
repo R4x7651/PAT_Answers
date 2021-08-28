@@ -41,3 +41,4 @@
 - [A1027 【Colors in Mars】](PAT_LevelA/1027_Colors_in_Mars.cpp)
 - [A1058 【A+B in Hogwarts】](PAT_LevelA/1058_A+B_in_Hogwarts.cpp)
 - [B1006 【换个格式输出整数】](PAT_LevelB/1006_换个格式输出整数.cpp)
+- [B1021 【个位数统计】](PAT_LevelB/1021_个位数统计.cpp)

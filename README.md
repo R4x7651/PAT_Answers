@@ -42,5 +42,6 @@
 - [A1058 【A+B in Hogwarts】](PAT_LevelA/1058_A+B_in_Hogwarts.cpp)
 - [B1006 【换个格式输出整数】](PAT_LevelB/1006_换个格式输出整数.cpp)
 - [B1021 【个位数统计】](PAT_LevelB/1021_个位数统计.cpp)
-- [B1031 查验身份证](PAT_LevelB/1031_查验身份证.cpp)
+- [B1031 【查验身份证】](PAT_LevelB/1031_查验身份证.cpp)
 - [B1002 【写出这个数】](PAT_LevelB/1002_写出这个数.cpp)
+- [B1009【说反话】](PAT_LevelB/1009_说反话.py)

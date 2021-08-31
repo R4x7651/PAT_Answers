@@ -45,3 +45,5 @@
 - [B1031 【查验身份证】](PAT_LevelB/1031_查验身份证.cpp)
 - [B1002 【写出这个数】](PAT_LevelB/1002_写出这个数.cpp)
 - [B1009【说反话】](PAT_LevelB/1009_说反话.py)
+- [B1014 【福尔摩斯的约会】](PAT_LevelB/1014_福尔摩斯的约会.py)
+- [A1061 【Dating】](PAT_LevelA/1061_Dating.py)

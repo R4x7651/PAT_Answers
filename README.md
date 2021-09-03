@@ -47,4 +47,4 @@
 - [B1009【说反话】](PAT_LevelB/1009_说反话.py)
 - [B1014 【福尔摩斯的约会】](PAT_LevelB/1014_福尔摩斯的约会.py)
 - [A1061 【Dating】](PAT_LevelA/1061_Dating.py)
-- [B1024 【科学计数法】](PAT_LevelB/1024_科学计数法.py)
+- [B1024/A1073 【科学计数法】](PAT_LevelB/1024_科学计数法.py)

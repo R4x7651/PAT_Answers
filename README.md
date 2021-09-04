@@ -49,3 +49,4 @@
 - [A1061 【Dating】](PAT_LevelA/1061_Dating.py)
 - [B1024/A1073 【科学计数法】](PAT_LevelB/1024_科学计数法.py)
 - [B1048 【数字加密】](PAT_LevelB/1048_数字加密.py)
+- [A1001 【A+B Format】](PAT_LevelA/1001_A+B_Format.cpp)

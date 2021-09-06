@@ -50,3 +50,4 @@
 - [B1024/A1073 【科学计数法】](PAT_LevelB/1024_科学计数法.py)
 - [B1048 【数字加密】](PAT_LevelB/1048_数字加密.py)
 - [A1001 【A+B Format】](PAT_LevelA/1001_A+B_Format.cpp)
+- [A1005 【Spell It Right】](PAT_LevelA/1005_Spell_It_Right.py)

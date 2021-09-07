@@ -51,3 +51,4 @@
 - [B1048 【数字加密】](PAT_LevelB/1048_数字加密.py)
 - [A1001 【A+B Format】](PAT_LevelA/1001_A+B_Format.cpp)
 - [A1005 【Spell It Right】](PAT_LevelA/1005_Spell_It_Right.py)
+- [A1035 【Password】](PAT_LevelA/1035_Password.py)

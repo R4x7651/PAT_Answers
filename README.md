@@ -52,3 +52,4 @@
 - [A1001 【A+B Format】](PAT_LevelA/1001_A+B_Format.cpp)
 - [A1005 【Spell It Right】](PAT_LevelA/1005_Spell_It_Right.py)
 - [A1035 【Password】](PAT_LevelA/1035_Password.py)
+- [A1077 【Kuchiguse】](PAT_LevelA/1077_Kuchiguse.py)

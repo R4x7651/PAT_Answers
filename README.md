@@ -53,3 +53,4 @@
 - [A1005 【Spell It Right】](PAT_LevelA/1005_Spell_It_Right.py)
 - [A1035 【Password】](PAT_LevelA/1035_Password.py)
 - [A1077 【Kuchiguse】](PAT_LevelA/1077_Kuchiguse.py)
+- [A1082 【Read Number in Chinese】](PAT_LevelA/1082_Read_Number_in_Chinese.py)

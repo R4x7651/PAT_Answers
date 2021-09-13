@@ -54,3 +54,9 @@
 - [A1035 【Password】](PAT_LevelA/1035_Password.py)
 - [A1077 【Kuchiguse】](PAT_LevelA/1077_Kuchiguse.py)
 - [A1082 【Read Number in Chinese】](PAT_LevelA/1082_Read_Number_in_Chinese.py)
+
+### 【2】数据结构相关
+
+####  栈
+
+- [A1051 【Pop Sequence】](PAT_LevelA/1051_Pop_Sequence.cpp)

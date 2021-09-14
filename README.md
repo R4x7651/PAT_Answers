@@ -60,3 +60,7 @@
 ####  栈
 
 - [A1051 【Pop Sequence】](PAT_LevelA/1051_Pop_Sequence.cpp)
+
+####  队列
+
+- [A1056 【Mice and Rice】](PAT_LevelA/1056_Mice_and_Rice.cpp)

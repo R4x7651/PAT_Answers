@@ -64,3 +64,6 @@
 ####  队列
 
 - [A1056 【Mice and Rice】](PAT_LevelA/1056_Mice_and_Rice.cpp)
+
+####  链表
+- [A1032 【Sharing】](PAT_LevelA/1032_Sharing.cpp)
